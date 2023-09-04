@@ -2,7 +2,7 @@
  
 Xperience Shopping provides software to reduce returns for ecommerce brands by enabling a more personal, sustainable shopping experience. This is the chrome extension, free for all who find this repo. Simply create a profile saved only to local storage and get size recommendations across sites. 
 
-Behold the ultimate size recommendation plugin, saving time &amp; money for online shoppers as it uses CV to predict body measurements and GPT 4 to provide size recommendations specific to a brand. This chrome extension shows proof of concept for  getting recommendations agnostic to product and specific to brand size charts. It does not save or store your data, howver the extension will make requests to Xperience Shopping API. 
+Behold the ultimate size recommendation plugin, saving time &amp; money for online shoppers as it uses CV to predict body measurements and GPT 4 to provide size recommendations specific to a brand. This chrome extension shows proof of concept for  getting recommendations agnostic to product and specific to brand size charts. It does not save or store your data, however the extension will make requests to Xperience Shopping API & Meshcapade Gmbh APIs. 
 
 Follow the steps below to download and install this extension manually.
 
