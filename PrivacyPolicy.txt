@@ -1,0 +1,56 @@
+Xperience Shopping Privacy Policy
+Last Updated: September 17, 2023
+Introduction
+Welcome to Xperience Shopping, a Chrome extension/web plugin meticulously designed to revolutionize your online shopping experience by helping you find the perfect fit. We understand the importance of your personal information and are committed to safeguarding your privacy. This Privacy Policy aims to transparently outline how we collect, use, and protect your information.
+
+By using Xperience Shopping, you signify your acceptance of this Privacy Policy. If you do not agree to this policy, please do not use our extension.
+
+Information We Collect
+Explicitly Submitted Information
+We only collect personal information that you explicitly provide to us, which includes:
+
+Height
+Weight
+Fit preference
+Reference Photo for 3D Avatar Generation
+You will be asked to submit a reference photo to create a 3D avatar that represents you. We want to make it abundantly clear that we do not store your submitted reference photo. The photo is temporarily processed to generate your 3D avatar and calculate your body measurements using advanced computer vision technology. Once the avatar is created and measurements are calculated, the reference photo is permanently deleted from our systems.
+
+Generated Data
+Through our licensed agreement with Meschcapade GmbH, we generate:
+
+A 3D avatar that represents you
+Calculated body measurements based on the reference photo
+Authentication Information
+We use Google Firebase for user authentication. During the sign-in process, Firebase Google Auth collects and processes your email address for identification purposes. No other personal information is collected during the authentication process.
+
+What We Don't Collect
+We do not collect:
+
+IP Addresses
+Browser History
+Any personal information that you do not explicitly submit to us
+How We Use Your Information
+Your trust is our top priority. We use your information for specific purposes to enhance your experience:
+
+Personalization: To provide a tailored shopping experience
+Service Maintenance: To notify you about updates or changes to our service
+Interactive Features: To enable interactive functionalities within the extension
+Customer Support: To assist you with any queries or issues you may have
+Service Improvement: To analyze anonymized data for improving our service
+Technical Monitoring: To ensure the optimal performance of our extension
+Anonymization and Security Measures
+All data, including your calculated body measurements, are anonymized before being sent to Meschcapade GmbH and before being stored in our database. We employ robust encryption methods and follow best practices to ensure the security of your data.
+
+Data Storage and Management
+We use Google Firebase for securely storing your generated 3D avatar and calculated body measurements. Google Firestore is used for additional data storage needs. All data is stored in encrypted form and is accessible only by authorized personnel.
+
+Data Sharing and Third-Party Services
+We may use third-party services like OpenAI to make personalized recommendations based on your anonymized calculated measurements, fit preference, height, and weight. We assure you that all data shared with third-party services is anonymized and stripped of any personally identifiable information.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy periodically to reflect changes in our practices. Rest assured, any changes will be aimed at enhancing your security and privacy. We will notify you of any significant changes by posting the updated Privacy Policy on this page.
+
+Contact Us
+Your privacy is our utmost priority. If you have any questions, concerns, or suggestions regarding our Privacy Policy, please do not hesitate to contact us.
+
+This Privacy Policy is effective as of September 17, 2023, and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
